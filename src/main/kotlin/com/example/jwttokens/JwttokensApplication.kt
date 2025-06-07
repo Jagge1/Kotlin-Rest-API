@@ -9,3 +9,4 @@ class JwttokensApplication
 fun main(args: Array<String>) {
 	runApplication<JwttokensApplication>(*args)
 }
+
