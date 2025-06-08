@@ -14,5 +14,6 @@ class ArticleRepository {
     )
 
     fun findAll(): List<Article> =
+        //Here is where the code is supposed to connect to a db?
         articles
 }
